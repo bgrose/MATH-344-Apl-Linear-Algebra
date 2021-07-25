@@ -1,5 +1,5 @@
-## CSCE _ _ _: _ _ _
-Code Written for _ _ _ CSCE _ _ _ Class for _ _ _ of _ _ _.
+## MATH 344/344L:Applied Linear Algebra and Lab
+Code Written for Dr. ______ MATH 344/344L Class for Fall of 2021.
 
 **Code for Archival Purposes Only**
 

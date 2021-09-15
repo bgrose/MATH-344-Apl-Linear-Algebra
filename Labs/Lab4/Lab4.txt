@@ -1,0 +1,21 @@
+% Bradley Grose Section 4
+% 9/15/2021
+% Find the binomial coefficient
+mybinomial(10, 2)
+
+ans =
+
+    45
+
+
+mybinomial(5, -3)
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('mybinomial', 'C:\Users\bradl\Documents\JUNIOR\FALL\MATH 344-344L\MATH-344-Apl-Linear-Algebra\Labs\Lab4\mybinomial.m', 9)" style="font-weight:bold">mybinomial</a> (<a href="matlab: opentoline('C:\Users\bradl\Documents\JUNIOR\FALL\MATH 344-344L\MATH-344-Apl-Linear-Algebra\Labs\Lab4\mybinomial.m',9,0)">line 9</a>)
+k is negative.
+} 
+
+mybinomial(9, 13)
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('mybinomial', 'C:\Users\bradl\Documents\JUNIOR\FALL\MATH 344-344L\MATH-344-Apl-Linear-Algebra\Labs\Lab4\mybinomial.m', 11)" style="font-weight:bold">mybinomial</a> (<a href="matlab: opentoline('C:\Users\bradl\Documents\JUNIOR\FALL\MATH 344-344L\MATH-344-Apl-Linear-Algebra\Labs\Lab4\mybinomial.m',11,0)">line 11</a>)
+n is less than k.
+} 
+
+diary off

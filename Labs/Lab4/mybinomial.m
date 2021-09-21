@@ -42,4 +42,4 @@ function binom = mybinomial(n, k)
         %Do calculation and returns
         binom = nFac/(nKFac*kFac);
     end
-end,
+end

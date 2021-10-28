@@ -5,7 +5,7 @@
 
 function Q = grams(A)
     [~, n] = size(A); % Get size
-    Q = A % Copy A to Q for Operations
+    Q = A; % Copy A to Q for Operations
     for i = 2:n
         Q(:,i) = A(:,i); %Sets first part of equation
         for j = 1:i-1
